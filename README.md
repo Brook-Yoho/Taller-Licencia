@@ -26,9 +26,9 @@ Este repositorio contiene imágenes de alta calidad de aves, generadas por IA y 
 
 ## 3. Guacamayo Macao en Vuelo
 
-<img src="img/guacamayo.png" alt="Guacamayo Macao volando sobre la selva" width="600">
+<img src="Guagamayo.png" alt="Guacamayo Macao volando sobre la selva" width="600">
 
-### 📝 Explicación del Recurso
+**Descripción:** 
 Esta fotografía dinámica captura un **Guacamayo Macao** (*Ara macao*) volando sobre el dosel de una selva tropical. La imagen destaca el contraste vibrante de sus plumas rojas, amarillas y azules contra el verde denso del bosque. Es perfecta para representar biodiversidad, ecosistemas tropicales o la libertad de la vida silvestre.
 
 * **Licencia:** [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
